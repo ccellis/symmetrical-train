@@ -10846,11 +10846,11 @@ $b8d271dd7140d409$exports = (parcelRequire("g4hl5"));
 // 2. Create a React element
 const $179703c1e8a964cb$var$element = /*#__PURE__*/ (0, (/*@__PURE__*/$parcel$interopDefault($kdEmn))).createElement('p', {
     id: 'helllo'
-}, 'Hello World!');
+}, 'do we wagmi yet!');
 // 3. Render the application
 const $179703c1e8a964cb$var$container = document.querySelector('#root');
 const $179703c1e8a964cb$var$root = (0, $b8d271dd7140d409$exports.createRoot)($179703c1e8a964cb$var$container);
 $179703c1e8a964cb$var$root.render($179703c1e8a964cb$var$element);
 
 
-//# sourceMappingURL=symmetrical-train.7abda546.js.map
+//# sourceMappingURL=symmetrical-train.2e0a505a.js.map

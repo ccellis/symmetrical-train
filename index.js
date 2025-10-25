@@ -6,7 +6,7 @@ import { createRoot } from 'react-dom/client';
 const element = React.createElement(
   'p',
   { id: 'helllo' },
-  'Hello World!'
+  'do we wagmi yet!'
 );
 
 // 3. Render the application
